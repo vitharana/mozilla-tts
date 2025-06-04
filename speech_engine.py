@@ -21,12 +21,24 @@ class TextSpeaker:
             print(f"Reading: {text}")
             self.read_text(text)
 
+    def read_all_new_lines(self):
+        lines = self.file_handler.get_data()
+        if lines:
+            for line in lines:
+                self.read_text(line)
+
     def run(self, interval=0.5):
         while True:
             self.read_last_line()
             time.sleep(interval)
 
+    def run2(self, interval=0.5):
+        while True:
+            self.read_all_new_lines()
+            time.sleep(interval)
+
+
 # Usage
 if __name__ == '__main__':
     speaker = TextSpeaker()
-    speaker.run()
+    speaker.run2()

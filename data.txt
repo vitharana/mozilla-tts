@@ -3,3 +3,120 @@ how are you
 why is this happening
 k
 njjj
+
+hey
+how are you
+whats you name
+Sandun is 1 years old
+Sandun is 2 years old
+Sandun is 3 years old
+Sandun is 4 years old
+Sandun is 5 years old
+Sandun is 6 years old
+Sandun is 7 years old
+Sandun is 8 years old
+Sandun is 9 years old
+Sandun is 10 years old
+Sandun is 11 years old
+Sandun is 12 years old
+Sandun is 13 years old
+Sandun is 14 years old
+Sandun is 15 years old
+Sandun is 16 years old
+Sandun is 17 years old
+Sandun is 18 years old
+Sandun is 19 years old
+Sandun is 20 years old
+Sandun is 21 years old
+Sandun is 22 years old
+Sandun is 23 years old
+Sandun is 24 years old
+Sandun is 25 years old
+Sandun is 26 years old
+Sandun is 27 years old
+Sandun is 28 years old
+Sandun is 29 years old
+Sandun is 30 years old
+Sandun is 31 years old
+Sandun is 32 years old
+Sandun is 33 years old
+Sandun is 34 years old
+Sandun is 35 years old
+Sandun is 36 years old
+Sandun is 37 years old
+Sandun is 38 years old
+Sandun is 39 years old
+Sandun is 40 years old
+Sandun is 41 years old
+Sandun is 42 years old
+Sandun is 43 years old
+Sandun is 44 years old
+ self.tts = TTS(model_name="tts_models/en/ljspeech/glow-tts")
+        self.sample_rate = self.tts.synthesizer.output_sample_rate
+        self.file_handler = file_handler if file_handler else FileHandler()
+
+    def read_text(self, text):
+        if text:
+            wav = self.tts.tts(text)
+            sd.play(wav, self.sample_rate)
+            sd.wait()
+
+    def read_last_line(self):
+        text = self.file_handler.get_last_line()
+        if text:
+
+Sure! Here's an essay about **Sri Lanka**, covering its geography, history, culture, economy, and tourism:
+
+---
+
+### **Sri Lanka: The Resplendent Island of South Asia**
+
+Sri Lanka, formerly known as Ceylon, is a beautiful island nation located in the Indian Ocean, just off the southeastern coast of India. Often referred to as the "Pearl of the Indian Ocean," Sri Lanka is celebrated for its rich cultural heritage, diverse landscapes, and remarkable biodiversity. Despite its small size, the country holds a unique place in South Asia, offering a blend of ancient traditions and modern progress.
+
+#### **Geography and Climate**
+
+Sri Lanka is shaped like a teardrop and spans an area of about 65,000 square kilometers. The island features a varied topography that includes lush rainforests, arid plains, scenic highlands, and golden beaches. Central Sri Lanka is mountainous, with the famous Adam’s Peak and the Central Highlands being prominent features. The country enjoys a tropical climate, influenced by two monsoon seasons, which bring both heavy rainfall and periods of dry weather throughout the year.
+
+#### **Historical and Cultural Significance**
+
+With a history dating back over 2,500 years, Sri Lanka is home to one of the oldest known civilizations in the world. The ancient cities of Anuradhapura and Polonnaruwa, both UNESCO World Heritage Sites, reflect the island’s early Buddhist culture and architectural achievements. Buddhism was introduced to Sri Lanka in the 3rd century BCE, and it has played a major role in shaping the country’s identity ever since.
+
+The country was colonized by the Portuguese, Dutch, and finally the British, before gaining independence in 1948. These colonial influences have left a lasting impact on Sri Lankan society, particularly in its architecture, legal system, and educational institutions.
+
+#### **Diverse Culture and Religion**
+
+Sri Lanka is a multi-ethnic, multi-religious nation. The Sinhalese make up the majority of the population, followed by Tamils, Moors (Muslims), and Burghers. The main religions practiced are Buddhism, Hinduism, Islam, and Christianity. The country’s festivals—such as Vesak, Thai Pongal, Eid, and Christmas—are celebrated with enthusiasm and respect across communities, reflecting its rich cultural diversity.
+
+Sri Lankan cuisine is another cultural highlight, known for its flavorful curries, rice-based dishes, and coconut-infused recipes. Spices like cinnamon and cardamom, native to the island, play a key role in its food traditions.
+
+#### **Economy and Development**
+
+Historically based on agriculture and exports like tea, rubber, and spices, Sri Lanka’s economy has diversified over the years. The country is one of the world’s largest producers of Ceylon tea. In recent decades, tourism, textiles, and information technology have become significant contributors to national income.
+
+Despite facing challenges such as civil conflict (which ended in 2009) and recent economic crises, Sri Lanka continues to strive toward economic recovery and sustainable development. Efforts are being made to strengthen infrastructure, improve education, and boost foreign investment.
+
+#### **Tourism and Natural Beauty**
+
+Sri Lanka is a popular tourist destination due to its stunning natural beauty and heritage sites. The country offers something for every traveler: ancient ruins, wildlife safaris in Yala National Park, serene beaches in Unawatuna and Mirissa, and cool mountain towns like Nuwara Eliya. The iconic Sigiriya rock fortress and the Temple of the Tooth in Kandy are among the most visited landmarks.
+
+Eco-tourism and Ayurveda (traditional healing) also attract international visitors seeking relaxation and wellness experiences.
+
+---
+
+### **Conclusion**
+
+Sri Lanka is a land of contrasts and harmony—a place where ancient traditions blend seamlessly with contemporary life. With its friendly people, cultural richness, and natural splendor, the island continues to inspire admiration and resilience. As it navigates modern challenges, Sri Lanka stands proud of its heritage and optimistic for its future.
+
+---
+
+Would you like this essay formatted for a school paper or presentation (e.g., with citations or visuals)?
+
+
+Sri Lanka is a popular tourist destination due to its stunning natural beauty and heritage sites. The country offers something for every traveler: ancient ruins, wildlife safaris in Yala National Park, serene beaches in Unawatuna and Mirissa, and cool mountain towns like Nuwara Eliya. The iconic Sigiriya rock fortress and the Temple of the Tooth in Kandy are among the most visited landmarks.
+
+Sri Lanka is a popular tourist destination due to its stunning natural beauty and heritage sites. The country offers something for every traveler: ancient ruins, wildlife safaris in Yala National Park, serene beaches in Unawatuna and Mirissa, and cool mountain towns like Nuwara Eliya. The iconic Sigiriya rock fortress and the Temple of the Tooth in Kandy are among the most visited landmarks.
+
+this is the most car fast 
+years
+
+A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport people rather than cargo.[1][2] There are around one billion cars in use worldwide.[citation needed]
