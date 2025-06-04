@@ -20,3 +20,4 @@ for sample in text_samples:
     # Play audio directly from numpy array
     sd.play(wav, sr)
     sd.wait()
+    print("done")
