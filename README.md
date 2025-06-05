@@ -69,7 +69,9 @@ on browser may download the files
 
 http://localhost:5002/api/tts?text=Hello+from+my+GPU
 
+url for the server
 
+http://localhost:5002⁠
 
 for windows
 
