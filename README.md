@@ -71,3 +71,6 @@ http://localhost:5002/api/tts?text=Hello+from+my+GPU
 
 
 
+for windows
+
+pip install soundfile
